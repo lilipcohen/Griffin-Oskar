@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katnguyenn/project1.git"
+    "url": "git+https://github.com/lilipcohen/Griffin-Oskar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katnguyenn/project1/issues"
+    "url": "https://github.com/lilipcohen/Griffin-Oskar/issues"
   },
-  "homepage": "https://github.com/katnguyenn/project1#readme",
+  "homepage": "https://github.com/lilipcohen/Griffin-Oskar",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
