@@ -4,13 +4,13 @@
 
 This is a website for a music artist. The website provides a place where fans can go to find out all of the latest information about Griffin Oskar.
 
-# Tech
+## Tech
 
 *The page contains HTML, CSS, Materialize (CSS Framework), Javascript, jQuery and Node.
 *The page is responsive.
 \*APIs - The page utilizes two 3rd party APIs. First, the Bands In Town API to pull all of Griffin's latest dates. Second, Mailchimp to generate Griffin's sign-up sheet for his newsletter.
 
-# Site Layout
+## Site Layout
 
 *The page is made up of a home page high-lighting Oskar's latest music video.
 *At the bottom of the page you will find the menu bar containing Tour Dates, Contact, and Images.
